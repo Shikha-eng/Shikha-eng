@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack and Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [portfolio-shikha.vercel.app](portfolio-shikha.vercel.app)
+
 
 - 💬 Ask me about **react**
 
